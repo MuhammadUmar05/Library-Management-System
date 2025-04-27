@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+    themes: false;
+
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+::-webkit-scrollbar {
+    display: none;
+    visibility: hidden;
+    width: 0px;
+}
+
+::selection {
+    color: none;
+    background: none;
+}
+
+p {
+    cursor: pointer;
+}

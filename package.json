@@ -1,0 +1,37 @@
+{
+  "name": "library-manangement-system",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.3",
+    "aos": "^3.0.0-beta.6",
+    "firebase": "^11.6.1",
+    "nanoid": "^5.1.5",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.5.0",
+    "react-toastify": "^11.0.5",
+    "sweetalert2": "^11.19.1",
+    "sweetalert2-react-content": "^5.1.0",
+    "tailwindcss": "^4.1.3"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.21.0",
+    "@types/react": "^19.0.10",
+    "@types/react-dom": "^19.0.4",
+    "@vitejs/plugin-react": "^4.3.4",
+    "daisyui": "^5.0.18",
+    "eslint": "^9.21.0",
+    "eslint-plugin-react-hooks": "^5.1.0",
+    "eslint-plugin-react-refresh": "^0.4.19",
+    "globals": "^15.15.0",
+    "vite": "^6.2.0"
+  }
+}
