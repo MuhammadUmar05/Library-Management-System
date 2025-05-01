@@ -12,7 +12,7 @@ Every book action (add, remove, issue, return, search) is powered by a custom **
 - **Firebase Authentication** – User authentication (Signup, Login)
 - **NanoID** – Unique ID generation for books
 - **JavaScript (ES6+)** – Core functionality
-- **Vite** – Fast build tool (if used)
+- **Vite** – Fast build tool
 
 ---
 
